@@ -1,17 +1,21 @@
-<h1 align="center">Hi 👋, I'm Aqsa Afridi</h1>
-<h3 align="center">Aspiring Java Programmer Learning Core Java & OOP Concepts and student of BS data science</h3>
+<h1 align="center">Hi 👋, I'm Aqsa Khan Afridi</h1>
+<h3 align="center">🎓 BS Data Science Student | ☕ Java Enthusiast | 💻 Future Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsakhan6124&label=Profile%20views&color=0e75b6&style=flat" alt="aqsakhan6124" /> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Java basics while exploring Data Science fundamentals.**
 
-- 🌱 I’m currently learning **Advanced Java Development**
+- 🌱 I’m currently learning **Java along with Data Science fundamentals.**
 
 - 📫 How to reach me **aqsakhan6124@gmail.com**
 
+- ⚡ Fun fact **I still get excited when my code runs without errors!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aqsa afridi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqsa afridi" height="30" width="40" /></a>
+<a href="https://twitter.com/@afridiaqsa63663" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@afridiaqsa63663" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/aqsa-afridi-68a568388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aqsa-afridi-68a568388" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/1ux37fygy7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1ux37fygy7/" height="30" width="40" /></a>
 <a href="https://instagram.com/aqsa_afridi22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aqsa_afridi22" height="30" width="40" /></a>
 </p>
 
